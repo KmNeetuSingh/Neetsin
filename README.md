@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently studying in [MASAI Schools](https://masai.com/)
 
-- 🌱 I’m currently learning **Next JS, Typescript, Sass**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React, MongoDB, NodeJS, ExpressJS, CSS, Javascript**
+- 💬 Ask me about **React, Html, CSS, Javascript**
 
 - 📫 How to reach me **neetusingh99590@gmail.com**
 
