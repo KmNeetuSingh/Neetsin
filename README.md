@@ -9,7 +9,7 @@
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Neetsin" alt="Neetsin" /></a></p>
 
 
-- 🔭 I’m currently studying in [MASAI Schools](https://masai.com/)
+- 🔭 I’m currently studying in [Prepleaf by Masai](https://www.prepleaf.com/)
 
 - 🌱 I’m currently learning **React**
 
