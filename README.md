@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React, Html, CSS, Javascript**
+- 💬 Ask me about **React, Html, CSS, Javascript,Chakra UI**
 
 - 📫 How to reach me **neetusingh99590@gmail.com**
 
