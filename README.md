@@ -2,7 +2,7 @@
 
 <h3 align="center">An Aspiring Full Stack Developer</h3>
 
-<p align="center"><img src="https://media.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" alt="developer" width="300px" height="270px" /></p>
+<p align="center"><img src="https://media.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif" alt="developer" width="600px" height="270px" /></p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Neetsin&label=Profile%20views&color=0e75b6&style=flat" alt="Neetsin" /></p>
 
